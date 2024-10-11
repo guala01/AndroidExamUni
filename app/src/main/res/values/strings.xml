@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatbotApp</string>
+    <string name="error_authentication_failed">Authentication failed: %1$s</string>
+    <string name="error_network">Network error: %1$s</string>
+    <string name="error_unknown">Unknown error: %1$s</string>
+    <string name="error_timeout">Timeout error: %1$s</string>
+    <string name="error_server">Server error: %1$s</string>
+</resources>
